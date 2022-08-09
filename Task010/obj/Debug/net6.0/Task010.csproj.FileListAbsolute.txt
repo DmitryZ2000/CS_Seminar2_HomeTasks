@@ -1,0 +1,15 @@
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\bin\Debug\net6.0\Task010.exe
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\bin\Debug\net6.0\Task010.deps.json
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\bin\Debug\net6.0\Task010.runtimeconfig.json
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\bin\Debug\net6.0\Task010.dll
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\bin\Debug\net6.0\Task010.pdb
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.csproj.AssemblyReference.cache
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.AssemblyInfoInputs.cache
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.AssemblyInfo.cs
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.csproj.CoreCompileInputs.cache
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.dll
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\refint\Task010.dll
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.pdb
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\Task010.genruntimeconfig.cache
+C:\Work_dvz\C_sharp\Seminar2\HomeWork\Task010\obj\Debug\net6.0\ref\Task010.dll
